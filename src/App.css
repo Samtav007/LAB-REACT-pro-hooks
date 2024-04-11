@@ -1,0 +1,21 @@
+h1,h2{
+  color:rgb(228, 128, 128);
+  text-align: center;
+}
+
+.page{
+  margin-top: 50px;
+  margin-left: 500px;  
+  height: 600px;
+  width: 50%;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
